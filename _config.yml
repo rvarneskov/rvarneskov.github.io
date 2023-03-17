@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rasmus Tangsgaard Varneskov"
 title_separator          : "-"
 name                     : &name "Rasmus Tangsgaard Varneskov"
-description              : &description "Hedge Fund PM and Professor of Statistics"
+description              : &description "personal site"
 url                      : https://rvarneskov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rvarneskov/rvarneskov.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Rasmus Tangsgaard Varneskov"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Hedge Fund PM and Professor"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
